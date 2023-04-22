@@ -1,0 +1,12 @@
+#canvas1 {
+	border: 1px solid black;
+	background: url("background_1280x720.png");
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.hidden {
+	display: none;
+}
